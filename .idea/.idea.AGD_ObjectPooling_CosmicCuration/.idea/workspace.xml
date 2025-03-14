@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3a8fe814-f762-409b-9131-1b7b30f5ee6b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AGD_ObjectPooling_CosmicCuration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AGD_ObjectPooling_CosmicCuration/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Utilities/GenericObjectPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Utilities/GenericObjectPool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bullets/BulletPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bullets/BulletPool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerService.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <workItem from="1741681529312" duration="3000" />
       <workItem from="1741681718699" duration="3000" />
       <workItem from="1741761070882" duration="12430000" />
-      <workItem from="1741831186448" duration="3099000" />
+      <workItem from="1741831186448" duration="3897000" />
     </task>
     <servers />
   </component>
