@@ -1,14 +1,15 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace CosmicCuration.VFX
 {
     public class VFXView : MonoBehaviour
     {
         private VFXController controller;
-
-        [SerializeField] private List<VFXData> particleSystem;
+        
+        [SerializeField] private List<VFXData> particleSystemMap;
         private ParticleSystem currentParticleSystem;
 
         public void SetController(VFXController controllerToSet) => controller = controllerToSet;
@@ -18,7 +19,7 @@ namespace CosmicCuration.VFX
             gameObject.SetActive(true);
             gameObject.transform.position = positionToSet;
 
-            foreach (VFXData item in particleSystem)
+            foreach (VFXData item in particleSystemMap)
             {
                 if (item.type == type)
                 {
@@ -27,9 +28,7 @@ namespace CosmicCuration.VFX
                 }
                 else
                 {
-                    {
                         item.particleSystem.gameObject.SetActive(false);
-                    }
                 }
             }
         }
@@ -50,7 +49,7 @@ namespace CosmicCuration.VFX
         
     }
     [Serializable]
-    public class VFXData
+    public struct VFXData
     {
         public VFXType type;
         public ParticleSystem particleSystem;

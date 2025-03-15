@@ -10,14 +10,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/VFXPrefabs/EnemyDestroyVFX.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/VFXPrefabs/EnemyDestroyVFX.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/VFXPrefabs/PlayerDestroyVFX.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/VFXPrefabs/PlayerDestroyVFX.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/VFXPrefabs/VFXViewPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/VFXPrefabs/VFXViewPrefab.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/VFXScriptableObject.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/VFXScriptableObject.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXScriptableObject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXScriptableObject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VFX/VFXView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +102,7 @@
       <workItem from="1741681529312" duration="3000" />
       <workItem from="1741681718699" duration="3000" />
       <workItem from="1741761070882" duration="12430000" />
-      <workItem from="1741831186448" duration="10125000" />
+      <workItem from="1741831186448" duration="11317000" />
     </task>
     <servers />
   </component>
